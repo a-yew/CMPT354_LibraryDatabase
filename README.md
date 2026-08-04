@@ -12,9 +12,9 @@ Semester: Summer 2026
 
 To run this project, you need:
 
-    Python 3.10 or higher.
-    No external pip installations are required (uses standard socket, threading, json, sys, tkinter libraries).
-    (Optional) VS Code or Terminal.
+- Python 3.10 or higher.
+- No external pip installations are required (uses standard socket, threading, json, sys, tkinter libraries).
+- (Optional) VS Code or Terminal.
 
 # Step-by-Step Run Guide
 Step 1:
