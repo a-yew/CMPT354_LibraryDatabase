@@ -27,7 +27,7 @@ To run this project, you need:
 # Step-by-Step Run Guide
 Step 1. Clone the repository and open `library.ipynb` in Jupyter.
 
-Step 2. Run the cells in order from the top — this creates `library.db`, builds the schema (tables, constraints, triggers), and populates it with sample data.
+Step 2. Run the cells in order from the top. This creates `library.db`, builds the schema (tables, constraints, triggers), and populates it with sample data.
 
 Step 3. Once the schema/data cells have run, scroll to the "Build Your Database Application" section and run the `find_item`, `borrow_item`, `return_item`, and `donate_item` function definitions.
 
