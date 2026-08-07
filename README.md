@@ -1,7 +1,5 @@
 # CMPT354_LibraryDatabase
 
-CMPT 371 A3 Socket Programming Connect-4
-
 Course: CMPT 354 - Database Systems I
 
 Instructor: Ouldooz Baghban Karimi
